@@ -26,8 +26,7 @@ This project helped me explore:
 
 ## 🚀 Getting Started
 1. Clone the repo
-   ```bash
-  git clone https://github.com/your-username/MusicAppUI.git
+   ```bash git clone https://github.com/your-username/MusicAppUI.git
 3. Open in Android Studio
 4. Build and run to explore the UI
 
